@@ -4,4 +4,7 @@
   <default revision="pyro" sync-j="4" />
   <project remote="github" name="poky" path="poky"/>
   <project remote="github" name="meta-raspberrypi" path="poky/meta-raspberrypi"/>
+  <project remote="github" name="meta-rpi" path="poky/meta-rpi" revision="master"/>
+  <project remote="github" name="motor-driver" path="motor-driver" revision="master"/>
+  <project remote="github" name="android-control-app" path="android-control-app" revision="master"/>
 </manifest>
