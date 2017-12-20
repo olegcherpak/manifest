@@ -40,5 +40,10 @@ Setup build environment
 ```
 $ cd poky
 $ source setup-environment
+```
+
+Start build
+
+```
 $ bitbake landkreuzer-image
 ```
